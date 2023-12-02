@@ -1,7 +1,7 @@
 # Multiple-Sclerosis-Lesion-Tracking-with-Deep-Learning
 A Comparitive Analysis of Deep Learning and Generative Approaches to tracking MS lesions in Brain MR Images
 <br>
-More ode will be available when findings have been published
+More code will be available when findings have been published
 
 
 ## Citation
